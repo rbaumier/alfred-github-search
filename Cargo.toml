@@ -1,0 +1,9 @@
+[package]
+name = "github-search"
+version = "0.1.0"
+authors = ["Romain Baumier <baumier.romain@gmail.com>"]
+
+[dependencies]
+alfred = "4.0.1"
+reqwest = "0.9.18"
+serde = "1.0.92"
